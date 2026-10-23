@@ -65,8 +65,8 @@ Download it and place it at the root of the project, next to `dashboard_final.ip
 ## Getting started
 
 ```bash
-git clone https://github.com/jadezrx/MiniProject_Dashboard.git
-cd MiniProject_Dashboard
+git clone https://github.com/jadezrx/animation-movies-data-viz.git
+cd animation-movies-data-viz
 pip install -r requirements.txt
 ```
 
