@@ -1,6 +1,6 @@
 # Animation Movies — A Data-Driven Journey Through Cinema History
 
-Data visualization dashboard built in Python (pandas, matplotlib, seaborn) for the **Data Manipulation** mini project (MDE, 4th year).
+Data visualization dashboard built in Python (pandas, matplotlib, seaborn).
 
 The dataset covers ~25,000 animated films released between 1878 and 2029, sourced from TMDB (The Movie Database). After cleaning, the analysis keeps **15,456 films** across 130+ years of history.
 
