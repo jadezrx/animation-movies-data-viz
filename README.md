@@ -23,13 +23,13 @@ The dataset covers ~25,000 animated films released between 1878 and 2029, source
 | 6 | Budget vs box office | Log-log scatter | A big budget helps but does not guarantee success |
 | 7 | Top animation studios | Bubble chart | More films don't mean better films |
 
-![Production per decade](1.png)
-![Animation styles](2.png)
-![Durations by decade](3.png)
-![Production by country](4.png)
-![Top rated movies](5.png)
-![Budget vs box office](6.png)
-![Studios](7.png)
+![Production per decade](images/01_production_per_decade.png)
+![Animation styles](images/02_animation_styles.png)
+![Durations by decade](images/03_durations_by_decade.png)
+![Production by country](images/04_production_by_country.png)
+![Top rated movies](images/05_top_rated_movies.png)
+![Budget vs box office](images/06_budget_vs_box_office.png)
+![Studios](images/07_top_studios.png)
 
 ## Dataset
 
@@ -76,9 +76,6 @@ Add the dataset (see above), then open `dashboard_final.ipynb` and run all cells
 
 | File | Description |
 |---|---|
-| `dashboard_final.ipynb` | Final dashboard notebook |
-| `dashboard.ipynb` | Earlier working version |
-| `1.png` … `7.png` | Exported charts |
-| `animation_report.docx` | Written report (context, questions, chart justifications) |
-| `animation_movies.pptx` | Presentation slides |
-| `script.docx` | Oral presentation script |
+| `dashboard_final.ipynb` | Dashboard notebook |
+| `images/` | Exported charts |
+| `requirements.txt` | Python dependencies |

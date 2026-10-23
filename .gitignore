@@ -1,6 +1,11 @@
 # Dataset (download it separately, see README)
 *.csv
 
+# Working files (not published)
+dashboard.ipynb
+*.docx
+*.pptx
+
 # Jupyter
 .ipynb_checkpoints/
 
